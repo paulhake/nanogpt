@@ -37,8 +37,8 @@ python bigram.py
 - **YouTube Tutorial**: [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Complete walkthrough by Andrej Karpathy
 
 ### Foundational Papers
-- **"Attention is All You Need"** - The original transformer architecture paper
-- **"Language Models are Few-Shot Learners"** - GPT-3 paper demonstrating few-shot learning capabilities
+- **"Attention is All You Need"** - The original transformer architecture paper ([arXiv:1706.03762](https://arxiv.org/abs/1706.03762))
+- **"Language Models are Few-Shot Learners"** - GPT-3 paper demonstrating few-shot learning capabilities ([arXiv:2005.14165](https://arxiv.org/abs/2005.14165))
 
 ### Community Resources
 - **#nanoGPT Discord** - Active community for questions and discussions
